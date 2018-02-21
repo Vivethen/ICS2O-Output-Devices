@@ -21,6 +21,8 @@
         }
         #Image {
             float: left;
+            position: relative;
+            right: 38px;
             margin-top: -94px;
             margin-left:350px;
             width:30%;
@@ -49,6 +51,15 @@
             position: relative;
             top: 35px;
         }
+        #WAOD2 {
+            color:rgb(4, 4, 33);
+            background-color: rgb(227, 205, 195);
+            border:5px groove rgb(145, 22, 145);
+            margin-top: 150px;
+            text-align: center;
+            position: relative;
+            top: -48px;
+        }
         #P1 {
             margin-left: 2px;
             margin-right: 250px;
@@ -56,6 +67,14 @@
         }
         #P2 {
             padding: 28px;
+        }
+        #P3 {
+            color:rgb(1, 1, 18);
+            background-color: rgb(210, 208, 232);
+            padding:1px;
+            border:6px ridge rgb(149, 112, 237);
+            position: relative;
+            bottom:8px;
         }
        
         
@@ -80,6 +99,16 @@ What makes a good (insert name of hardware piece here) ? What should you look fo
 </div>
 <div id="P2">
     <p>Output devices are very important because without them, people would not be able to access the information from an input device. For example, a phone is no good without the screen because then you can not see what is happening on your phone.</p>
+</div>
+<div id="WAOD2">
+    <h3>How do you know that your Output Device will work?</h3>
+</div>
+<div id="P3">
+<ul>The main factors that show if an output device will work are:<br>
+    <br><li><b>How old the device is:</b> </li>
+    <br><li><b>Is the device damaged:</b> </li>
+    <br><li><b>Is the internet connection good or bad:</b> </li>
+</ul>
 </div>
     </body>
 </html>
