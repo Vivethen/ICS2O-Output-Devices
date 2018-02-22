@@ -106,8 +106,8 @@ What makes a good (insert name of hardware piece here) ? What should you look fo
 <div id="P3">
 <ul>The main factors that show if an output device will work are:<br>
     <br><li><b>How old the device is:</b> The device's age is a big factor on how well it will work. If the output device is new, it means that the device has been recently tested to ensure it will work the best. Over time however, the device will most likely lose its edge. Like people in a way, devices eventually will not work anymore because the device's parts are getting old, therefore problems will start to occur to the device. </li>
-    <br><li><b>Is the device damaged:</b> The device's condition will highely affect how well the device will work. For example if you dropped your phone from a very high distance, your phone will most likely be damaged internally, and externally</li>
-    <br><li><b>Is the internet connection good or bad:</b> </li>
+    <br><li><b>Is the device damaged:</b> The device's condition will highly affect how well the device will work. For example if you dropped your phone from a very high distance, your phone will most likely be damaged internally, and externally because of the damage caused by the fall. Not only does the damage on the device have an effect on how well your device will work, but also some other components can affect your device's condition. For example, if the wire conecting your headphones to your phone is damaged, then the info will not be transfered from the phone to the headphone efficiently.</li>
+    <br><li><b>Is the internet connection good or bad:</b> The internet connection's quality will affect how fast the data is transmitted. A fast internet connection will transfer data quickely while a slow connection will transfer data slowly from an input device to an output device.</li>
 </ul>
 </div>
     </body>
