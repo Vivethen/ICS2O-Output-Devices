@@ -110,5 +110,14 @@ What makes a good (insert name of hardware piece here) ? What should you look fo
     <br><li><b>Is the internet connection good or bad:</b> The internet connection's quality will affect how fast the data is transmitted. A fast internet connection will transfer data quickely while a slow connection will transfer data slowly from an input device to an output device.</li>
 </ul>
 </div>
+<!-- hitwebcounter Code START -->
+<a href="http://www.hitwebcounter.com" target="_blank">
+<img src="http://hitwebcounter.com/counter/counter.php?page=6904247&style=0019&nbdigits=4&type=page&initCount=0" title="good hits" Alt="good hits"   border="0" >
+</a>                                        <br/>
+                                        <!-- hitwebcounter.com --><a href="http://www.hitwebcounter.com" title="" 
+                                        target="_blank" style="font-family: ; 
+                                        font-size: px; color: #; text-decoration:  ;"><>                                        </>
+                                        </a>   
+                            
     </body>
 </html>
