@@ -136,7 +136,9 @@ What makes a good (insert name of hardware piece here) ? What should you look fo
 </div>
     <div id="Links"><a href="https://www.computerhope.com/jargon/o/outputde.htm">For more info on Output Devices</a><br></div>
     <div id="Store_Links"><a href="http://www.canadiantire.ca/en/household-pets/home-electronics/portable-players-accessories/headphones-ear-buds.html">Canadian Tire</a>
-    <a href="https://www.bestbuy.ca/en-CA/Search/SearchResults.aspx?query=computer%20speaker"><br>Best buy</a></div>
+    <a href="https://www.bestbuy.ca/en-CA/Search/SearchResults.aspx?query=computer%20speaker"><br>Best buy</a>
+    <a href="https://www.staples.ca/en/Monitors/cat_CL200493_2-CA_1_20001"><br>Staples</a>
+     <a href="https://www.walmart.ca/en/electronics/laptops-computers/printers-ink-scanners/N-1860"><br>Walmart</a></div>
 
     <!-- hitwebcounter Code START -->
 <a href="http://www.hitwebcounter.com" target="_blank">
