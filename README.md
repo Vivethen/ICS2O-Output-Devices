@@ -76,6 +76,30 @@
             position: relative;
             bottom:8px;
         }
+        #Links {
+            background-color: rgb(210, 208, 232);
+            padding:10px;
+            border:3px ridge rgb(149, 112, 237);
+            margin-right:282px;
+            color: rgb(37, 61, 135);
+        }
+        #Links {
+            background-color: rgb(210, 208, 232);
+            padding:10px;
+            border:3px ridge rgb(149, 112, 237);
+            margin-right:282px;
+            color: rgb(37, 61, 135);
+        }
+        #Store_Links {
+            background-color: rgb(210, 208, 232);
+            padding:10px;
+            border:3px ridge rgb(149, 112, 237);
+            margin-right:282px;
+            color: rgb(37, 61, 135);
+            position: relative;
+            top:-44px;
+            left:283px;
+        }
        
         
     </style>
@@ -110,14 +134,13 @@ What makes a good (insert name of hardware piece here) ? What should you look fo
     <br><li><b>Is the internet connection good or bad:</b> The internet connection's quality will affect how fast the data is transmitted. A fast internet connection will transfer data quickely while a slow connection will transfer data slowly from an input device to an output device.</li>
 </ul>
 </div>
-<!-- hitwebcounter Code START -->
+    <div id="Links"><a href="https://www.computerhope.com/jargon/o/outputde.htm">For more info on Output Devices</a><br></div>
+    <div id="Store_Links"><a href="http://www.canadiantire.ca/en/household-pets/home-electronics/portable-players-accessories/headphones-ear-buds.html">Canadian Tire</a>
+    <a href="https://www.bestbuy.ca/en-CA/Search/SearchResults.aspx?query=computer%20speaker"><br>Best buy</a></div>
+
+    <!-- hitwebcounter Code START -->
 <a href="http://www.hitwebcounter.com" target="_blank">
 <img src="http://hitwebcounter.com/counter/counter.php?page=6904247&style=0019&nbdigits=4&type=page&initCount=0" title="good hits" Alt="good hits"   border="0" >
-</a>                                        <br/>
-                                        <!-- hitwebcounter.com --><a href="http://www.hitwebcounter.com" title="" 
-                                        target="_blank" style="font-family: ; 
-                                        font-size: px; color: #; text-decoration:  ;"><>                                        </>
-                                        </a>   
-                            
+</a>                                    
     </body>
 </html>
