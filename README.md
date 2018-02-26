@@ -1,4 +1,4 @@
-[CLICKME to SEE WEBSITE](https://vivethen.github.io/ICS2O-Output-Devices/OutputDevices.html) utdevices.html
+[CLICK HERE](https://vivethen.github.io/ICS2O-Output-Devices/OutputDevices.html) utdevices.html
 
 <!DOCTYPE html>
 <html>
