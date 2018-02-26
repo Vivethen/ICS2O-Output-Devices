@@ -68,6 +68,10 @@
             position: relative;
             bottom:8px;
         }
+        #Image {
+            position:relative;
+            left :400px;
+        }
         #Links {
             background-color: rgb(210, 208, 232);
             padding:10px;
