@@ -19,15 +19,7 @@
             height: 58px;
             border:5px ridge rgb(149, 112, 237);
         }
-        #Image {
-            float: left;
-            position: relative;
-            right: 38px;
-            margin-top: -94px;
-            margin-left:350px;
-            width:30%;
-            text-align:center;
-        }
+        
         #Output-Devices {
             color:rgb(13, 34, 84);
             background-color: rgb(211, 212, 237);
@@ -117,7 +109,7 @@ What makes a good (insert name of hardware piece here) ? What should you look fo
         <p>An output devices is any device that recives data from another machine such as a computer or phone. Some commonly known output devices are headphones, monitors, printers, and speakers.  On the other hand, input devices are the oposite of output devices; they are devices that send data unlike output devices that recive data. An example of an input device is a motherboard. Some devices can also have components of both input and output devices like a computer or a phone. The computer's moniter screen is an output device while the motherboard in it is an input device.</p>
     </div>
     <div id="Image">
-</div>
+<img src="http://4.bp.blogspot.com/-pUG8iFUxwlQ/UHkcII9qRkI/AAAAAAAAAE4/P3_Yqx_M4aw/s1600/Output%2BDevices.jpg" alt="Output Devices" width="200"></div>
 <div id="WAOD1">
     <h3>Why are Output Devices so important?</h3>
 </div>
