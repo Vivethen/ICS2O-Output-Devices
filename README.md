@@ -56,7 +56,6 @@
         }
         #P1 {
             margin-left: 2px;
-            margin-right: 250px;
             position: relative;
         }
         #P2 {
